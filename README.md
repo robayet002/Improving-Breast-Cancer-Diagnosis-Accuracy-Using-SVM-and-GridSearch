@@ -2,7 +2,7 @@
 Breast cancer is one of the most common cancers among women worldwide. Early diagnosis is crucial for effective treatment and improved survival rates. This project uses a Support Vector Machine (SVM), a powerful machine learning algorithm, to classify breast cancer as either benign or malignant based on features extracted from cell images.
 
 Dataset:
-The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) Data Set, which is available from the UCI Machine Learning Repository. It consists of features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
+The dataset used in this project is the Breast_Cancer_diagnosis.CSV Data Set, which is available from the UCI Machine Learning Repository. It consists of features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 Features: 30 numeric features
 Classes: 2 (benign and malignant)
 Samples: 569
