@@ -23,3 +23,8 @@ To find the best parameters for the SVM, we use GridSearchCV. This involves tryi
 
 Results
 The results of the model training and evaluation, including the accuracy, precision, recall, and F1-score, will be displayed in the console or notebook output. Visualizations such as the confusion matrix and ROC curve can also be generated.
+
+![1](https://github.com/robayet002/Improving-Breast-Cancer-Diagnosis-Accuracy-Using-SVM-and-GridSearch/assets/111728894/ff7a088b-95af-4b57-a00e-65de18218c7a)
+
+
+![2](https://github.com/robayet002/Improving-Breast-Cancer-Diagnosis-Accuracy-Using-SVM-and-GridSearch/assets/111728894/a0d2f2c9-0cf7-4e66-9eff-3b937d1ea293)
